@@ -33,9 +33,6 @@
 ### 💻 Editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📌 Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risbi0&repo=Elysian-Realm)](https://github.com/risbi0/Elysian-Realm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risbi0&repo=HoloCure-Build-Maker)](https://github.com/risbi0/HoloCure-Build-Maker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risbi0&repo=Hololive-Production-Livestream-Activity-Statistics)](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics)
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=risbi0&style=for-the-badge)
